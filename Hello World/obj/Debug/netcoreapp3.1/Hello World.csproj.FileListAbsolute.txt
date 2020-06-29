@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Hello World/bin/Debug/netcoreapp3.1/Hello World.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Hello World/bin/Debug/netcoreapp3.1/Hello World.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Hello World/bin/Debug/netcoreapp3.1/Hello World.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Hello World/bin/Debug/netcoreapp3.1/Hello World.dll
+/Users/sam/Documents/GitHub/C-Learning/Hello World/bin/Debug/netcoreapp3.1/Hello World.pdb
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.dll
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.pdb
+/Users/sam/Documents/GitHub/C-Learning/Hello World/obj/Debug/netcoreapp3.1/Hello World.genruntimeconfig.cache
