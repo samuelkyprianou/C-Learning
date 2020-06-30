@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/bin/Debug/netcoreapp3.1/Giraffe.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/bin/Debug/netcoreapp3.1/Giraffe.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/bin/Debug/netcoreapp3.1/Giraffe.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/bin/Debug/netcoreapp3.1/Giraffe.dll
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/bin/Debug/netcoreapp3.1/Giraffe.pdb
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.dll
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.pdb
+/Users/sam/Documents/GitHub/C-Learning/Giraffe/Giraffe/obj/Debug/netcoreapp3.1/Giraffe.genruntimeconfig.cache
