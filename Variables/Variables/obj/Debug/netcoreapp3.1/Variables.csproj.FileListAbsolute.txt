@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/sam/Documents/GitHub/C-Learning/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
