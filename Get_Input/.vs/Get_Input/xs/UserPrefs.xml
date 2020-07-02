@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{EE582C85-8E55-400E-8B78-F08A91CFCDDE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strings/Program.cs">
+﻿<Properties StartupConfiguration="{6E759300-E782-4446-A6A8-9B2C51172D8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Get__Input FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Get_Input/Program.cs">
     <Files>
-      <File FileName="Strings/Program.cs" Line="21" Column="52" />
+      <File FileName="Get_Input/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Strings" expanded="True">
-            <Node name="Strings" expanded="True">
+          <Node name="Get_Input" expanded="True">
+            <Node name="Get_Input" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

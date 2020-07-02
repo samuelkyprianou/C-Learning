@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.dll
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.pdb
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.dll
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.pdb
+/Users/sam/Documents/GitHub/C-Learning/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.genruntimeconfig.cache

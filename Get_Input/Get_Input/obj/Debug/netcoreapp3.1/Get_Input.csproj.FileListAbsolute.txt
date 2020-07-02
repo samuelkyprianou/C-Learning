@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/bin/Debug/netcoreapp3.1/Get_Input.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/bin/Debug/netcoreapp3.1/Get_Input.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/bin/Debug/netcoreapp3.1/Get_Input.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/bin/Debug/netcoreapp3.1/Get_Input.dll
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/bin/Debug/netcoreapp3.1/Get_Input.pdb
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.dll
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.pdb
+/Users/sam/Documents/GitHub/C-Learning/Get_Input/Get_Input/obj/Debug/netcoreapp3.1/Get_Input.genruntimeconfig.cache
