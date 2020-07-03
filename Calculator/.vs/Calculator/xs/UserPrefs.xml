@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{6E759300-E782-4446-A6A8-9B2C51172D8C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Get__Input PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Get_Input/Program.cs">
+﻿<Properties StartupConfiguration="{6EA4D17B-3964-4A49-A8BA-B1652267D8DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Program.cs">
     <Files>
-      <File FileName="Get_Input/Program.cs" Line="14" Column="52" />
+      <File FileName="Calculator/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Get_Input" expanded="True">
-            <Node name="Get_Input" expanded="True">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
