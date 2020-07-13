@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{6EA4D17B-3964-4A49-A8BA-B1652267D8DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Program.cs">
+﻿<Properties StartupConfiguration="{E41E956D-E0FE-4BC7-9D5D-65CE07D1CAAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mad-Lib/Program.cs">
     <Files>
-      <File FileName="Calculator/Program.cs" Line="12" Column="43" />
+      <File FileName="Mad-Lib/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Calculator" expanded="True">
-            <Node name="Calculator" expanded="True">
+          <Node name="Mad-Lib" expanded="True">
+            <Node name="Mad-Lib" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mad-Lib FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

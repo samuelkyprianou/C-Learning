@@ -1,0 +1,12 @@
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/bin/Debug/netcoreapp3.1/Mad-Lib.deps.json
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/bin/Debug/netcoreapp3.1/Mad-Lib.runtimeconfig.json
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/bin/Debug/netcoreapp3.1/Mad-Lib.runtimeconfig.dev.json
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/bin/Debug/netcoreapp3.1/Mad-Lib.dll
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/bin/Debug/netcoreapp3.1/Mad-Lib.pdb
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.csprojAssemblyReference.cache
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.AssemblyInfoInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.AssemblyInfo.cs
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.csproj.CoreCompileInputs.cache
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.dll
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.pdb
+/Users/sam/Documents/GitHub/C-Learning/Mad-Lib/Mad-Lib/obj/Debug/netcoreapp3.1/Mad-Lib.genruntimeconfig.cache
